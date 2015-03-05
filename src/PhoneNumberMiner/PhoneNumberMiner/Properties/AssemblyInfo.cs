@@ -1,4 +1,11 @@
-﻿using System.Reflection;
+﻿//-----------------------------------------------------------------------
+// <copyright file="AssemblyInfo.cs" company="ELTE">
+//     Copyright (c) ELTE All rights reserved.
+// </copyright>
+// <author>groberto</author>
+// <date>2/26/2015 5:09 PM</date>
+//-----------------------------------------------------------------------
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
