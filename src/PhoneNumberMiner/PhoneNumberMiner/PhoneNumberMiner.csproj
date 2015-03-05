@@ -39,9 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IPhoneNumberFinder.cs" />
+    <Compile Include="FileTextProvider.cs" />
     <Compile Include="ITextProvider.cs" />
     <Compile Include="PhoneNumber.cs" />
+    <Compile Include="PhoneNumberFinder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

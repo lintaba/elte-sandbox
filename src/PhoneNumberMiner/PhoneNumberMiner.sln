@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 		Settings.StyleCop = Settings.StyleCop
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberMiner.Tests", "PhoneNumberMiner.Tests\PhoneNumberMiner.Tests.csproj", "{A8388388-E171-487E-ABF2-B952529283CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A53838DF-8E68-412F-9FFF-CAEFF45D3598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A53838DF-8E68-412F-9FFF-CAEFF45D3598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A53838DF-8E68-412F-9FFF-CAEFF45D3598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8388388-E171-487E-ABF2-B952529283CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8388388-E171-487E-ABF2-B952529283CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8388388-E171-487E-ABF2-B952529283CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8388388-E171-487E-ABF2-B952529283CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
